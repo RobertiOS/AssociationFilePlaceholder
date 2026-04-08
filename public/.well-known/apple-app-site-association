@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [{
 				"appID": "DDECC3H9LP.de.quartett-mobile.onetouch",
-				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*", "/myaudiapp/licences/*" , "/myaudiapp/privatecharging/*", "/myaudiapp/prm/*"]
+				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*", "/myaudiapp/licences/*", "/myaudiapp/privatecharging/*", "/myaudiapp/prm/*"]
 			},
 			{
 				"appID": "62E7K2SK2Q.de.quartett-mobile.onetouch.dev",
