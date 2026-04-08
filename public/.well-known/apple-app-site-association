@@ -1,0 +1,38 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+				"appID": "DDECC3H9LP.de.quartett-mobile.onetouch",
+				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*"]
+			},
+			{
+				"appID": "62E7K2SK2Q.de.quartett-mobile.onetouch.dev",
+				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*"]
+			},
+			{
+				"appID": "62E7K2SK2Q.de.quartett-mobile.onetouch.r",
+				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*"]
+			},
+			{
+				"appID": "62E7K2SK2Q.de.quartett-mobile.onetouch.p",
+				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*"]
+			},
+			{
+				"appID": "K8YT2PNYA6.de.audi.myaudimobileassistant",
+				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*"]
+			},
+			{
+				"appID": "AZ3QTAEDGJ.de.audi.myaudimobileassistant",
+				"paths": ["/checkout/upgrades/*/*", "/orders", "/orders/*", "/autoident", "/customerfeedback", "/myaudiapp/charging/*", "/myaudiapp/setupassistant/*", "/myaudiapp/mdk-pairing", "/myaudiapp/vehicletab/*"]
+			}
+		]
+	},
+	"webcredentials": {
+		"apps": [
+			"DDECC3H9LP.de.quartett-mobile.onetouch",
+			"62E7K2SK2Q.de.quartett-mobile.onetouch.dev",
+			"62E7K2SK2Q.de.quartett-mobile.onetouch.r",
+			"62E7K2SK2Q.de.quartett-mobile.onetouch.p"
+		]
+	}
+}
